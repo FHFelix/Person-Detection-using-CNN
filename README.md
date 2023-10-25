@@ -1,5 +1,4 @@
-# Person-Detection-using-CNN
-## PersonaNet: Person Detection using CNN
+# PersonaNet: Person Detection using CNN
 
 *In this Project, I will be working on an image classification task using the transfer learning technique. The task objective is to determine whether an image contains a person -- a binary classification task.*
 
